@@ -1,0 +1,8 @@
+.addmargin {
+    margin-top: 50px;
+}
+.aligncenter {
+    text-align: center !important;
+    line-height: 60px;
+    background-color: brown;
+}
